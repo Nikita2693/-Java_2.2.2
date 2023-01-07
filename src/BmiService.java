@@ -1,5 +1,5 @@
 public class BmiService {
-    public double calculate( double weight, double height) {
+    public double calculate(double weight, double height) {
 
         if (height <= 0) return 0;
 
